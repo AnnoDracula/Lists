@@ -1,0 +1,7 @@
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\bin\Debug\DoubleListUnit.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\bin\Debug\DoubleListUnit.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\bin\Debug\DoublyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\bin\Debug\DoublyLinkedList.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\obj\Debug\DoubleListUnit.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\obj\Debug\DoubleListUnit.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\DoubleListUnit\obj\Debug\DoubleListUnit.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Projects\Visual Studio\WorkWithLists\SinglyLinkedList\bin\Debug\SinglyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\SinglyLinkedList\obj\Debug\SinglyLinkedList.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\WorkWithLists\SinglyLinkedList\obj\Debug\SinglyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb

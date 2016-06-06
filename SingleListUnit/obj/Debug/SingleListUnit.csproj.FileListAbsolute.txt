@@ -1,0 +1,7 @@
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\bin\Debug\SingleListUnit.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\bin\Debug\SingleListUnit.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\bin\Debug\SinglyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\bin\Debug\SinglyLinkedList.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\obj\Debug\SingleListUnit.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\obj\Debug\SingleListUnit.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\SingleListUnit\obj\Debug\SingleListUnit.pdb

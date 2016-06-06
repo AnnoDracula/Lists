@@ -1,0 +1,10 @@
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\WorkWithLists.exe.config
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\WorkWithLists.exe
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\WorkWithLists.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\DoublyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\SinglyLinkedList.dll
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\DoublyLinkedList.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\bin\Debug\SinglyLinkedList.pdb
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\obj\Debug\WorkWithLists.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\obj\Debug\WorkWithLists.exe
+D:\Documents\Projects\Visual Studio\WorkWithLists\WorkWithLists\obj\Debug\WorkWithLists.pdb
